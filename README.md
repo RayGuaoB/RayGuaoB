@@ -45,6 +45,5 @@
 ### 🔗 &nbsp;Contact Me
 
 <div align="center">
-<a><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a/>raygb9@gmail.com</a>
+<h3/>raygb9@gmail.com</h3>
 </div>
